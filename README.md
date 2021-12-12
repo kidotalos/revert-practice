@@ -1,2 +1,4 @@
 # revert-practice
-revert練習用
+
+revert 練習用
+間違え変更
